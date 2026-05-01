@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU76kpNH1zn5tx3_mYB3UCIWBAP907C6IwvQ&s" alt="Dash screenshot"/>
+  <img src="https://static.filehorse.com/screenshots-mac//developer-tools/dash-mac-screenshot-01.png" alt="Dash screenshot"/>
 </p>
 
 ---
@@ -65,7 +65,7 @@ Workflow integration extends beyond basic functionality to support comprehensive
 Professional environments benefit from deployment flexibility and management capabilities. Standardized configurations can be distributed across teams while individual customizations remain available, balancing consistency with personal productivity preferences.
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU76kpNH1zn5tx3_mYB3UCIWBAP907C6IwvQ&s" alt="Dash screenshot 3"/>
+  <img src="https://docs.dash.org/de/0.13.0/_images/112414813.png" alt="Dash screenshot 3"/>
 </p>
 
 ---
